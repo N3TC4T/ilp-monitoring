@@ -1,0 +1,65 @@
+.colorIcon {
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.red {
+    background: #ec1561;
+}
+.orange {
+    background: #ff9939;
+}
+.green {
+    background: #2bab51;
+}
+
+.text-left{
+    text-align: left;
+}
+
+#network {
+    height: 75vh;
+}
+
+.margin-zero {
+    margin:0;
+}
+
+
+
+#flash-notices {
+    margin-left: -0.75rem;
+    margin-right: -0.75rem;
+}
+
+#flash-notices .info-flash {
+    background-color: #2d4d60;
+    border: 1px solid #467694;
+}
+
+#flash-notices .alert-box {
+    color: #c4c7c9;
+    margin-top: 10px;
+    padding: 0 6px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 20px;
+    position: relative;
+    border-radius: 0;
+    margin-bottom: 10px;
+}
+
+.alert-box {
+    margin: 0 0 1em 0;
+    border: none;
+}
+
+
+.box{
+    margin-top: 20px;
+    width: 300px;
+    height: 50px;
+}

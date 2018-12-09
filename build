@@ -1,0 +1,4 @@
+cd /srv/app/monitoring/assets
+npm run deploy
+cd ..
+mix phx.digest
