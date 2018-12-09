@@ -1,4 +1,8 @@
-# Monitoring
+# ILP Monitoring
+
+> Simple ILP Monitoring writen in Elixir
+
+For collecting data you can use [Monitoring agent](https://github.com/N3TC4T/ilp-monitoring-agent)
 
 To start :
 
